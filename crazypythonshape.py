@@ -1,5 +1,6 @@
 import turtle
 
+# Hello, this is a really interesting shape I made with the 'turtle' module. 
 
 turtle.bgcolor("black")
 turtle.speed(9*10^800)
