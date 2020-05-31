@@ -13,7 +13,7 @@ turtle.pendown()
 
 for side in range (1,400):
   turtle.forward(side)
-  turtle.left(92)
+  turtle.left(110)
   side=side+7
 
 turtle.penup()
