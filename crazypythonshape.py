@@ -6,7 +6,7 @@ turtle.bgcolor("black")
 turtle.speed(9*10^800)
 turtle.color("pink")
 
-side=80
+side=100
 turtle.penup()
 turtle.goto(0,0) 
 turtle.pendown()
